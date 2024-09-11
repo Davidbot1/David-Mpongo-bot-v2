@@ -17,4 +17,4 @@ module.exports = {
             api.sendMessage("There are no pending thread requests.", event.threadID, event.messageID);
         }
     }
-};￼Enter￼Enter
+};
